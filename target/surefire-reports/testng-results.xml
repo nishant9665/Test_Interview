@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23650" started-at="2019-01-03T19:27:59Z" finished-at="2019-01-03T19:28:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23650" started-at="2019-01-03T19:27:59Z" finished-at="2019-01-03T19:28:23Z">
+      <class name="selenium_basic.Firsttestngfile">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:selenium_basic.Firsttestngfile@64bfbc86]" name="launchBrowser" is-config="true" duration-ms="8686" started-at="2019-01-03T19:27:59Z" finished-at="2019-01-03T19:28:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:2, instance:selenium_basic.Firsttestngfile@64bfbc86]" name="verifyHomepageTitle" duration-ms="15" started-at="2019-01-03T19:28:08Z" description="test-1" finished-at="2019-01-03T19:28:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:selenium_basic.Firsttestngfile@64bfbc86]" name="terminateBrowser" is-config="true" duration-ms="5074" started-at="2019-01-03T19:28:08Z" finished-at="2019-01-03T19:28:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:selenium_basic.Firsttestngfile@64bfbc86]" name="launchBrowser" is-config="true" duration-ms="4760" started-at="2019-01-03T19:28:13Z" finished-at="2019-01-03T19:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyHomepageTitle2()[pri:2, instance:selenium_basic.Firsttestngfile@64bfbc86]" name="verifyHomepageTitle2" duration-ms="11" started-at="2019-01-03T19:28:17Z" description="test-2" finished-at="2019-01-03T19:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle2 -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:selenium_basic.Firsttestngfile@64bfbc86]" name="terminateBrowser" is-config="true" duration-ms="5079" started-at="2019-01-03T19:28:18Z" finished-at="2019-01-03T19:28:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- selenium_basic.Firsttestngfile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
